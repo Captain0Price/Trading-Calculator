@@ -3,7 +3,8 @@ Trading Calculator is a simple yet powerful Google Sheets tool designed to simul
 
 https://github.com/Captain0Price/Trading-Calculator/blob/main/Trading%20Calculator.png
 
-##🔧 Features
+#🔧 Features
+
 Accepts key inputs such as:
 
 Initial Capital
@@ -34,9 +35,8 @@ Total Commission (based on Binance rates)
 
 Final (Closing) Capital
 
-##Randomly assigns trade outcomes (win/loss) in line with your specified win rate for each session, adding an element of real-world unpredictability.
 
-##📈 Example
+#📈 Example
 Inputs:
 
 Initial Capital: $500
@@ -67,7 +67,9 @@ Commission: $12.68
 
 Closing Capital: $522.47
 
-##🔢 How It Works
+https://github.com/Captain0Price/Trading-Calculator/blob/main/Input%20Variables.png
+
+#🔢 How It Works
 1) You input the capital, trading parameters, and assumptions.
 
 2) The sheet randomly assigns winning and losing trades based on your win rate.
