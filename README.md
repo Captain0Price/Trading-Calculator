@@ -1,11 +1,11 @@
 # Trading-Calculator
 Trading Calculator is a simple yet powerful Google Sheets tool designed to simulate and evaluate the outcomes of multiple trades based on user-defined parameters. Whether you're backtesting a trading strategy or estimating potential outcomes, this calculator gives you a realistic overview of how your capital could perform under different market conditions.
 
-https://github.com/Captain0Price/Trading-Calculator/blob/main/Trading%20Calculator.png
+![Image](https://github.com/user-attachments/assets/341bcffa-f26e-4543-879b-c8313494b10c)
 
-#🔧 Features
+# 🔧 Features
 
-Accepts key inputs such as:
+## Accepts key inputs such as:
 
 Initial Capital
 
@@ -19,7 +19,7 @@ Profit Percentage per Winning Trade
 
 Stop Loss Percentage per Losing Trade
 
-Outputs include:
+## Outputs include:
 
 Number of Winning Trades
 
@@ -36,8 +36,9 @@ Total Commission (based on Binance rates)
 Final (Closing) Capital
 
 
-#📈 Example
-Inputs:
+# 📈 Example
+
+## Inputs:
 
 Initial Capital: $500
 
@@ -51,7 +52,7 @@ Profit Percentage (per win): 2%
 
 Stop Loss Percentage (per loss): 1%
 
-Outputs:
+## Outputs:
 
 Winning Trades: 4
 
@@ -67,9 +68,9 @@ Commission: $12.68
 
 Closing Capital: $522.47
 
-https://github.com/Captain0Price/Trading-Calculator/blob/main/Input%20Variables.png
+![Image](https://github.com/user-attachments/assets/a1a1f1bb-eb7a-44d3-85dd-38e56af7877e)
 
-#🔢 How It Works
+# 🔢 How It Works
 1) You input the capital, trading parameters, and assumptions.
 
 2) The sheet randomly assigns winning and losing trades based on your win rate.
@@ -82,14 +83,16 @@ https://github.com/Captain0Price/Trading-Calculator/blob/main/Input%20Variables.
 
 4) The result gives you a clear picture of your strategy's potential impact on your capital.
 
-##📌 Notes
+![Image](https://github.com/user-attachments/assets/c6265da8-8efe-402e-bfe5-5e16d8f094d4)
+
+## 📌 Notes
 The randomness in win/loss assignment helps simulate the uncertainty in real trading environments.
 
 Commission rates are based on Binance's spot trading fee structure and can be updated if needed.
 
 Designed primarily for educational and strategy testing purposes.
 
-##🧮 Ideal For
+## 🧮 Ideal For
 -Aspiring traders testing win/loss scenarios
 
 -Strategy backtesting with different risk-reward setups
